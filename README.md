@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/abdulmukit98/abdulmukit98/blob/master/amazing%20grace.jpg)
 
-<h3>
 [markdown](https://hello-sunil.in/github-readme-markdown-cheatsheet)  <br>
-</h3>  
+
