@@ -1,4 +1,5 @@
 # Amazing grace :umbrella:
+![image](https://github.com/abdulmukit98/abdulmukit98/blob/master/amazing%20grace.jpg)
 
 <!--
 **abdulmukit98/abdulmukit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://github.com/abdulmukit98/abdulmukit98/blob/master/amazing%20grace.jpg)
-
 
